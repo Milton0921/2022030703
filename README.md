@@ -1,0 +1,2 @@
+# 2022030703
+#include &lt;iostream> int main(){     int a;     long b;     long long c;      float ee;     doubel ee;     long doube f;     printf("Size of int = %zu bytes \n",sizeof(a));     printf("Size of long int = %zu bytes\n",sizeof(b));     printf("Size of long long int = %zu bytes\n",sizeof(c));     printf("Size of float = %zu byts\n", sizeof(ee));     printf("Size of doubel = %zu byts\n",sizeof(e));     printf("Size of long doubel = %zu byts\n",sizeof(f));     return 0; }
